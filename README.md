@@ -16,7 +16,7 @@ This data set contains information about rental properties in Abu Dhabi and deta
 
 1. Descriptive Statistics for Price, Nr Bedrooms, Nr Bathrooms and Size
 
-![Fig 2](DescriptiveStatistics.png)
+![Fig 2](Describe.png)
 
 2. Number of properties per location
 
