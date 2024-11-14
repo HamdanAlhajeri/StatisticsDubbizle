@@ -25,4 +25,4 @@ This data set contains information about rental properties in Abu Dhabi and deta
 
 3. Price Distribution
 
-![Fig 2](PriceDistribution.png)
+![Fig 2](priceData.png)
