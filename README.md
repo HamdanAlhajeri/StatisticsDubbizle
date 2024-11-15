@@ -26,3 +26,22 @@ This data set contains information about rental properties in Abu Dhabi and deta
 3. Price Distribution
 
 ![Fig 2](priceData.png)
+
+4. Average Rental Price per Location
+
+![Fig 3](AverageRentalPriceByLocation.png)
+
+5. Price Distribution by Location
+
+![Fig 4](PriceDistributionByLocation.png)
+
+6. Q-Q Plot of Rental Prices
+
+![Fig 5](Q-QPlotOfRentals.png)
+
+7. Price Vs Size
+
+![Fig 6](PriceVsSizeCorrelation.png)
+
+8. Average Rental Prices by Neighborhood
+![Fig 7](AverageRentalPricesByNeighborhood.png)
