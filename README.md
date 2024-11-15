@@ -53,4 +53,4 @@ Tables:
 
 2. Location Statistics
 
-![Table 2](LocationStatistics.png)
+![Table 2](LocationStatsitics.png)
