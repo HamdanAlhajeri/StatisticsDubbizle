@@ -1,5 +1,24 @@
 # Abu Dhabi Rental Market Analysis
 
+A comprehensive statistical analysis of Abu Dhabi's rental market, focusing on 3-bedroom properties. This project leverages Python and various data science libraries to analyze rental prices, property characteristics, and neighborhood trends.
+
+## Quick Start 🚀
+
+### Prerequisites
+- Python 3.8 or newer
+- Required libraries: pandas, numpy, matplotlib, seaborn, scipy
+
+### Installation
+
+1. Clone the repository
+2. Install dependencies:
+```bash
+pip install pandas numpy matplotlib seaborn scipy
+```
+3. Run the Jupyter notebook:
+```bash
+jupyter notebook Data.ipynb
+```
 ## Overview
 This project analyzes the rental market in Abu Dhabi, focusing on 3-bedroom properties across different neighborhoods. The analysis includes rental prices, property characteristics, and neighborhood trends.
 
